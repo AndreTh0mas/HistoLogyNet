@@ -28,4 +28,4 @@ https://drive.google.com/drive/folders/1LwZcLR13pL8_ZncOeKVZSLHrfpRO4jA_?usp=sha
 
 ## Directoins
 
-Each zip file contains ``ReadMe.md`` containing more descriptions about the use.
+Each folder further contains ``ReadMe.md`` containing more descriptions about the use.
